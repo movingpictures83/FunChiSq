@@ -1,0 +1,2 @@
+Prefix plugins/FunChiSq/example/
+Plugin FunChiSq inputfile abundN.quanta.denoised.csv outputfile abundN.funchisq.unpadded.csv
