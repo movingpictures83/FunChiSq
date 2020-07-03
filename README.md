@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV (contains samples and quanta)
 # Output: CSV (functional dependencies)
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: FunChisq_2.5.1
 
 PluMA plugin that calculates dependencies between entities using the FunChiSq (Zhang and Song, 2013) algorithm.
 
